@@ -2,7 +2,7 @@
 
  ### Hi there 👋
  #### My name is Mohammed Abdulla and I am a Software Developer from Canada
- <a href="https://www.linkedin.com/in/mohammed-abdulla-b5281b19a/">
+ <a href="https://www.linkedin.com/in/mohammed-abdulla-b5281b19a/" target="_blank">
    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"
       width="75" height="50">
 </a>
