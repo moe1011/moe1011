@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-My name is Mohammed Abdulla and I am a Software Developer student from Canada.<br/>
+My name is Mohammed Abdulla and I am a Software Engineering student from Canada.<br/>
 💬 Contact me by  <a href="mailto:moe.a1011@gmail.com">email</a><br/>
 	<br/>
 	<a href="https://www.linkedin.com/in/mohammed-abdulla-b5281b19a/"><img src="https://img.shields.io/badge/-Mohammed%20Abdulla-blue?style=flat&logo=Linkedin&logoColor=white"/>
