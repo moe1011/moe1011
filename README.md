@@ -19,6 +19,6 @@ My name is Mohammed Abdulla and I am a Software Engineering student from Canada.
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=moe1011&include_all_commits=true&hide_border=true&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moe1011&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=tokyonight&hide=">
-</p>
+</p> -->
