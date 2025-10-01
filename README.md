@@ -11,7 +11,7 @@ My name is Mohammed Abdulla and I am a Software Engineer from Canada.<br/>
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=moe1011&hide=contribs,prs&theme=tokyonight" />
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=moe1011&hide=contribs,prs&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 
